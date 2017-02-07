@@ -1,7 +1,7 @@
 <?php
 
 require 'vendor/autoload.php';
-require 'lib/globals.php';
+require 'globals.php';
 
 class BrowserStackTest extends PHPUnit_Framework_TestCase
 {
