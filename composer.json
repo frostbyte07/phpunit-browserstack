@@ -1,4 +1,5 @@
 {
+  "name": "frostbyte07/phpunit-browserstack",
   "require": {
     "browserstack/browserstack-local": "dev-master",
     "phpunit/phpunit-selenium": "*",
